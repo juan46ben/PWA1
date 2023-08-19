@@ -1,0 +1,11 @@
+
+
+
+table>tbody>tr>td {
+    vertical-align: middle ;
+}
+
+/*para alinear los botones y cuadro de busqueda*/
+.btn-group, .btn-group-vertical {
+    position: absolute ;
+}

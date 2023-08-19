@@ -1,0 +1,27 @@
+.correo{
+   
+	margin: 15px;
+	padding-right: 3px;
+	
+	width: 250px;
+	background: #00000033;
+}
+
+
+.area{
+
+background: #00000001;
+width: 330px;
+max-width: 330px;
+min-width: 200px;
+
+max-height: 800px;
+min-height: 200px;
+
+}
+
+.col-md-4{
+	background: #00000050;
+    width: 400px;
+    border:5px;color:black;
+}

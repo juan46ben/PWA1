@@ -1,0 +1,245 @@
+[25-Jun-2022 02:07:12 America/New_York] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sergryco/comidas.serviciositsales.com/index.php on line 2
+[25-Jun-2022 02:07:12 America/New_York] PHP Warning:  include(menu.php): failed to open stream: No such file or directory in /home/sergryco/comidas.serviciositsales.com/index.php on line 2
+[25-Jun-2022 02:07:12 America/New_York] PHP Warning:  include(): Failed opening 'menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sergryco/comidas.serviciositsales.com/index.php on line 2
+[25-Jun-2022 02:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function CantidadVentas() in /home/sergryco/comidas.serviciositsales.com/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/index.php on line 51
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/BoxActivos.php(2): include('/home/sergryco/...')
+#2 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:09:18 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/BoxActivos.php(2): include('/home/sergryco/...')
+#2 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:12:32 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:32 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:32 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:12:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:12:58 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'comida'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:14:59 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:14:59 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:14:59 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:14:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:16:37 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:16:37 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:16:37 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 8
+[25-Jun-2022 02:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_connect_errno() in /home/sergryco/comidas.serviciositsales.com/conexiongra.php:11
+Stack trace:
+#0 /home/sergryco/comidas.serviciositsales.com/function.php(4): include()
+#1 /home/sergryco/comidas.serviciositsales.com/menu.php(3): include('/home/sergryco/...')
+#2 /home/sergryco/comidas.serviciositsales.com/index.php(2): include('/home/sergryco/...')
+#3 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/conexiongra.php on line 11
+[25-Jun-2022 02:19:11 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:19:11 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sergryco_root'@'localhost' (using password: YES) in /home/sergryco/comidas.serviciositsales.com/conexion.php on line 2
+[25-Jun-2022 02:19:11 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:19:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/conexion.php:2) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 02:43:17 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:43:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 02:43:53 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:43:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 02:46:47 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:46:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 02:47:59 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:47:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 02:51:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 02:51:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[25-Jun-2022 08:36:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[25-Jun-2022 08:36:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[01-Jul-2022 00:01:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[01-Jul-2022 00:01:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[01-Jul-2022 01:08:59 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[01-Jul-2022 01:08:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[01-Jul-2022 01:12:13 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[01-Jul-2022 01:12:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:25:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:25:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:35:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:35:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:36:46 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:36:46 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:37:09 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:37:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:37:16 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:37:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:37:39 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:37:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:38:43 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:38:43 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:38:57 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:38:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:39:08 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:39:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:44:54 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:44:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:45:00 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 16:45:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 16:50:18 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sergryco/comidas.serviciositsales.com/menu.php on line 11
+[03-Jul-2022 16:50:19 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sergryco/comidas.serviciositsales.com/menu.php on line 11
+[03-Jul-2022 16:50:35 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 6
+[03-Jul-2022 16:53:25 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 6
+[03-Jul-2022 16:53:30 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 6
+[03-Jul-2022 16:53:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 16:54:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 16:55:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:01:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:08:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/sergryco/comidas.serviciositsales.com/loguot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/loguot.php on line 11
+[03-Jul-2022 17:08:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/sergryco/comidas.serviciositsales.com/loguot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/loguot.php on line 11
+[03-Jul-2022 17:08:13 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:18:43 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:24 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:27 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:29 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:30 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:31 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:32 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:19:53 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:20:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function CantidadVentas() in /home/sergryco/comidas.serviciositsales.com/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/index.php on line 51
+[03-Jul-2022 17:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/sergryco/comidas.serviciositsales.com/loguot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/loguot.php on line 11
+[03-Jul-2022 17:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/sergryco/comidas.serviciositsales.com/loguot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sergryco/comidas.serviciositsales.com/loguot.php on line 11
+[03-Jul-2022 17:21:52 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:22:30 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:22:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 17:22:58 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:23:04 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:23:05 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:23:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:24:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/sergryco/comidas.serviciositsales.com/menu.php on line 91
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sergryco/comidas.serviciositsales.com/menu.php on line 91
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/sergryco/comidas.serviciositsales.com/menu.php on line 99
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sergryco/comidas.serviciositsales.com/menu.php on line 99
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/sergryco/comidas.serviciositsales.com/menu.php on line 105
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sergryco/comidas.serviciositsales.com/menu.php on line 105
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined variable $_SESSION in /home/sergryco/comidas.serviciositsales.com/menu.php on line 126
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/sergryco/comidas.serviciositsales.com/menu.php on line 126
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 133
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 146
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 159
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 172
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 185
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 198
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "tabla" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 212
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 228
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "tabla" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 246
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "tabla" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 266
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "tabla" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 294
+[03-Jul-2022 17:24:43 America/New_York] PHP Warning:  Undefined array key "modulo" in /home/sergryco/comidas.serviciositsales.com/menu.php on line 345
+[03-Jul-2022 17:31:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:31:23 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:2) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:31:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:2) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:31:25 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:4) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:31:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:4) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:32:12 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:4) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:32:24 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:2) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:32:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:37:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/confsmtp.php:53) in /home/sergryco/comidas.serviciositsales.com/confsmtp.php on line 54
+[03-Jul-2022 17:37:29 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 4
+[03-Jul-2022 17:37:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/correo.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 7
+[03-Jul-2022 17:59:37 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 17:59:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:00:19 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:00:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:01:16 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:01:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:01:19 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:01:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:04:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:04:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:05:36 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:05:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:05:40 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:05:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:06:39 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:06:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:16:52 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:16:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:28:40 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:28:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:28:46 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:28:46 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:29:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:29:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:29:52 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:29:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:30:41 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:30:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:31:33 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:31:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:34:40 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:34:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:41:51 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:41:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 18:57:43 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 18:57:43 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 19:00:28 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 19:00:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
+[03-Jul-2022 19:02:41 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sergryco/comidas.serviciositsales.com/menu.php on line 5
+[03-Jul-2022 19:02:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sergryco/comidas.serviciositsales.com/vista.php:1) in /home/sergryco/comidas.serviciositsales.com/menu.php on line 8
